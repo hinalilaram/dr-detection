@@ -37,7 +37,7 @@ This project leverages **deep learning** and smartphone photography to detect di
 
 
 🤝 Contributors
-- Hina Liaram
+- Hina Lilaram
 - Sarmad Talpur
 - Sharjeel Memon
 - Irfan Ali Bhacho
